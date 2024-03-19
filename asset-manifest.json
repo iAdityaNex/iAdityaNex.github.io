@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee46e6c2.css",
+    "main.js": "/static/js/main.c92d9116.js",
+    "static/js/787.08ae5e66.chunk.js": "/static/js/787.08ae5e66.chunk.js",
+    "static/media/backGroundImage6.png": "/static/media/backGroundImage6.9c50a93c2b668062238b.png",
+    "static/media/Sprite.png": "/static/media/Sprite.83324e98be4c3090b87f.png",
+    "static/media/backGroundImage.png": "/static/media/backGroundImage.6f6ebede50b668fc6893.png",
+    "static/media/coco.png": "/static/media/coco.087cf91e2bc85c8ac389.png",
+    "static/media/Bisleri.png": "/static/media/Bisleri.5b8b6d964a002278380f.png",
+    "static/media/ai_samrtbin.jpeg": "/static/media/ai_samrtbin.c8e4a7a36575cca20eca.jpeg",
+    "static/media/circleEconomy.png": "/static/media/circleEconomy.8da26876279d5dc5f8f0.png",
+    "static/media/pepsi.png": "/static/media/pepsi.e0a9301854e2575aed09.png",
+    "static/media/kL.png": "/static/media/kL.0492a7ad339a701e66f5.png",
+    "static/media/netZero.png": "/static/media/netZero.cbb06434e7cf87e67170.png",
+    "static/media/eco_care_log.png": "/static/media/eco_care_log.7501d43dd034b7f7e68f.png",
+    "index.html": "/index.html",
+    "main.ee46e6c2.css.map": "/static/css/main.ee46e6c2.css.map",
+    "main.c92d9116.js.map": "/static/js/main.c92d9116.js.map",
+    "787.08ae5e66.chunk.js.map": "/static/js/787.08ae5e66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee46e6c2.css",
+    "static/js/main.c92d9116.js"
+  ]
+}
